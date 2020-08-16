@@ -1,0 +1,156 @@
+
+h1
+{
+  padding-top: 1cm;
+  padding-left: 1cm;
+  margin: 0;
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 300%;
+  color: black;
+}
+
+header
+{
+ background-color: pink;
+}
+
+.hat {
+  padding-left: 0.5cm;
+  padding-top: 0.5cm;
+  float: left;
+}
+
+img {
+  float: left;
+  padding-right: 0.5cm;
+  padding-bottom: 0.5cm;
+}
+
+.tagline {
+  font-size: 100%;
+  font-family: sans-serif;
+  text-align: left;
+  padding-top: 0px;
+  padding-left: 1cm;
+}
+
+ // NAVIGATION
+.nav
+{
+  padding-top: 20 px;
+  margin:0;
+  padding: 20 px;
+  list-style-type: none;
+  text-align: center;
+  text-decoration: none;
+}
+
+.nav li
+{
+  display: inline-block;
+}
+
+.header p 
+{
+  color: white;
+}
+
+.nav a
+{
+  color: white;
+  display: inline-block;
+  padding: 0.5em 0.5em;
+  background-color: #666;
+  border-radius:4px; 
+  text-decoration: none;
+}
+
+.nav a:hover
+{
+  background-color: #000;
+}
+
+// BUTTON
+
+.button {
+  border: none;
+  color: white;
+  background-color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+// Main
+.main {
+  color: white;
+  background-image:url(Img5.jpg);
+  background-size: cover;
+  text-align: center;
+  padding-top: 1cm;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial sans-serif;
+}
+
+.vertical-center {
+  padding-top: 0.5cm;
+  padding-bottom: 3cm;
+  padding-left: 3cm;
+  padding-right: 3cm;
+  font-size: 250%;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#storiesblurb
+{
+  background-color: pink;
+  padding: 10px;
+}
+
+#storiesmain
+{
+  background-color: pink;
+  padding:10px;
+}
+
+.womanstory
+{
+  background-color: gray;
+  padding-left: 1cm;
+  padding-right: 1cm;
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+}
+
+.wone
+{
+  padding-left: 1cm;
+  padding-right: 1cm;
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+  background-color: white;
+}
+
+.wtwo
+{
+  padding: 10px;
+  background-color: white;
+}
+
+#section{
+  background-color: white;
+  padding: 10px;
+}
+
+
+
+#footer{
+  padding:10px;
+}
